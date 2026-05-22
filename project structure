@@ -1,0 +1,7 @@
+SwagLabs_Framework/
+├── pages/
+├── tests/
+├── utils/
+├── conftest.py
+├── requirements.txt
+└── README.md
