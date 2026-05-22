@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial Swag Labs framework"
+git branch -M main
+git remote add origin <your_repo_url>
+git push -u origin main
